@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Virtual environment folders (if using venv)
+venv/
+env/
+
+# macOS hidden files
+.DS_Store
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# TensorFlow / Keras model files (if they are too large for GitHub)
+*.h5
+*.keras
+
+# Logs and debugging files
+logs/
+*.log
+
+# Miscellaneous
+*.swp
+*.tmp
